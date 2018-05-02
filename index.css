@@ -1,0 +1,28 @@
+article {
+    border: 4px solid yellow;
+    width: 400px;
+}
+h1 ,h2 {
+    color: green;
+    text-align: center;
+}
+figure {
+    border: 2px solid black;
+    padding: 4px;
+}
+p {
+    color: white;
+    background: rgba(0, 0, 255, .7)
+}
+li {
+    font-weight: bolt;
+}
+a {
+    color: yellow;
+}
+a:hover {
+    color:red
+}
+img {
+    width: 300px;
+}
